@@ -2,7 +2,7 @@
 This project checks for the presence of permutations of two words.
 
 # Using : 
-Open main.py files and call to checkStrings paramater for testing.
+Open main.py file and call to checkStrings paramater for testing.
 
 # Description
   In this python function I firstly declared to status False.If the condition is met in the continuation of the code, I changed it to True.
